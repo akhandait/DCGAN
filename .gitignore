@@ -1,0 +1,7 @@
+tryitout.py
+papers/
+__pycache__/
+output/
+temp/
+temp2/
+data/__pycache__/
